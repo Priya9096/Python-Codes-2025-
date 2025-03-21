@@ -1,7 +1,7 @@
 
 ## 🎥 Python HackerRank and Leet Code DSA Solutions : 
 
-🎬 Say "Hello, World!" With Python: [https://youtu.be/vZ7i3rhlz6A?si=pzB-Kb1z5_mdFC4r]
+🎬 Say "Hello, World!" With Python, Arithmetic Operator, Division,if-else : [https://youtu.be/vZ7i3rhlz6A?si=pzB-Kb1z5_mdFC4r]
 
 🎬 Loops: [https://youtu.be/7bBu7HVJrRQ?si=I6P5Yp1raHwueard]
 
