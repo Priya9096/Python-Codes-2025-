@@ -11,6 +11,8 @@
 
 🎬 List Comprehension: [https://youtu.be/0ikQthPbSOc?si=3IW2e3TUEKHBcCt0]
 
+🎬 Find the Runner-up Score: [https://www.youtube.com/watch?v=cqpXSLAJ2Vo]
+
 
 
 
