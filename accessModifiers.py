@@ -1,6 +1,8 @@
 class Demo:
     def __init__(self):
         self.name = "Priya"
+    def disp(self):
+        print(self.name) #Accessing Public property inside the same class - Allowed
 d1 = Demo()
 print(d1.name) #Accessing Public property outside the class - Allowed
 
@@ -12,6 +14,6 @@ dm1.disp()
 
 class Code:
     def display(self):
-        print(d1.name) ##Accessing Public property inside Non-Child class - Allowed
+        print(d1.name) #Accessing Public property inside Non-Child class - Allowed
 c = Code()
 c.display()
